@@ -4,7 +4,8 @@ This project aims to analyze the Seattle Airbnb dataset to gain insights into re
 
 ## Dataset
 
-The dataset used for this analysis contains information about Airbnb listings in Seattle. It includes attributes such as listing price, number of bedrooms and bathrooms, and the presence of amenities like TV, Internet, and Kitchen.
+The dataset used for this analysis contains information about Airbnb listings in Seattle. It includes attributes such as listing price, number of bedrooms and bathrooms, and the presence of amenities like TV, Internet, and Kitchen. Please refer to the following link for finding the dataset:
+https://www.kaggle.com/datasets/airbnb/seattle
 
 ## Analysis
 
