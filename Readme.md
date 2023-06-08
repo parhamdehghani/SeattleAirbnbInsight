@@ -40,6 +40,10 @@ To run the Jupyter Notebook and reproduce the analysis, you need the following d
 
 The dataset used in this analysis is provided by Inside Airbnb (http://insideairbnb.com/) and was last updated in September 2021. The dataset is publicly available for download and exploration.
 
+## Report
+You can find a comprhensive report including the details of this analysis within the following link:
+https://medium.com/@p.dehghani88/unlocking-the-insights-of-airbnb-reservation-prices-in-seattle-d7ef366aac83
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
